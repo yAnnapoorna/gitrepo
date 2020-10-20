@@ -3,7 +3,6 @@
 int main(void)
 {
 	printf("hello world\n");
-	printf("commit\n");
-	printf("commit\n");
+	printf("hello world\n");
 	return 0;
 }
